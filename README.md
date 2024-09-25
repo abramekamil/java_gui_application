@@ -4,4 +4,6 @@ The application allows the user to complete the computer system configuration an
 ## Screenshots
 <img src="https://github.com/abramekamil/java_gui_application/blob/main/AMDBASEPRICE.png" width="500"/>
 <img src="https://github.com/abramekamil/java_gui_application/blob/main/AMD_everything%20selected%20.png" width="500"/>
+<img src="https://github.com/abramekamil/java_gui_application/blob/main/AMDBASEPRICE.png" width="500"/>
+<img src="https://github.com/abramekamil/java_gui_application/blob/main/AMD_everything%20selected%20.png" width="500"/>
 <img src="https://github.com/abramekamil/java_gui_application/blob/main/order_button.png" width="500"/>
